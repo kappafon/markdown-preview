@@ -1,0 +1,9 @@
+@import '../styles/functions';
+
+.markdown {
+    &__preview {
+        height: 100%;
+        width: 50%;
+        overflow: auto;
+    }
+}

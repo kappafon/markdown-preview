@@ -1,0 +1,10 @@
+@import '../styles/functions';
+
+.markdown {
+    &__container {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+    }
+}
